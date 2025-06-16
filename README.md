@@ -12,4 +12,9 @@ This repository contains a collection of mini Python projects and exercises I've
 - Perfect for beginners and experts alike 🎓
 
 ---
+---
+
+## 🚧 More Projects Coming Soon
+
+This is an ongoing repository. More intermediate-to-advanced projects are being planned and will be added soon.
 
